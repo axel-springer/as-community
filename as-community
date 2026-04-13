@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head><title>PoC - Subdomain Takeover</title></head>
+<body>
+  <h1>⚠️ Subdomain Takeover PoC</h1>
+  <p><strong>Researcher:</strong> NaughtyHacker (HackerOne)</p>
+  <p><strong>Vulnerability:</strong> subdomain pointing to axel-springer githubg page that no longer exists.</p>
+  <p>This page is served from an attacker-controlled origin, proving 
+  full control over content served at forms.klasgroup.com</p>
+</body>
+</html>
